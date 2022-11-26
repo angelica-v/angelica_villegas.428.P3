@@ -13,6 +13,6 @@ public class carousel : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        transform.Rotate (0,0, -10 * Time.deltaTime); 
     }
 }
