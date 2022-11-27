@@ -1,6 +1,6 @@
 # angelica_villegas.428.P2
  
-Welcome to CS 428 Project 2 -One More Cup of Coffee
+Welcome to CS 428 Project 3 - Our House
  GitHub Documentation 
 
 Created by Angelica Villegas Salazar.
@@ -8,7 +8,7 @@ Created by Angelica Villegas Salazar.
 ## Introduction
 This is a project for Virtual, Augmented and Mixed Reality taught by Professor Andy Johnson. 
 
-The goal was to create a VR environment that could be viewed in both Unity and in the Oculus Quest VR headset. This environment is based off a coffee shop to be located in the new CS building. I modeled my scene based on a fall/witch theme. Somedays, you need a snack/coffee before you cast spells and make potions. When walking around the scene one is able to pick up items including but not limited to, the potions, skull, cakes, cookies, and pumpkins. Additionally, if the user touches either the coffee maker screen or the over dials an new coffee cup or a new pie (cherry/pumpkin) is spawned into the game. MakeHuman and Mixamo, an animated avatar was created. If you touch the avater she mutters a spell. Additionally, the cauldron/potion, the oven, and the cat all make noises when you approach them and all potions make a clinking noise when you grab or touch them. 
+The goal was to create a VR environment that could be viewed in both Unity and in the Oculus Quest VR headset. This environment is based off a coffee shop and new environement to be located in the new CS building. I modeled my scene based on a fall fair theme. Somedays, you need a snack/coffee before you cast spells and make potions. When walking around the scene one is able to pick up items including but not limited to, the potions, skull, cakes, cookies, and pumpkins. Additionally, if the user touches either the coffee maker screen or the over dials an new coffee cup or a new pie (cherry/pumpkin) is spawned into the game. MakeHuman and Mixamo, an animated avatar was created. If you touch the avater she mutters a spell. Additionally, the cauldron/potion, the oven, and the cat all make noises when you approach them and all potions make a clinking noise when you grab or touch them. There are also a kiosk that transports you to different views of the scene. You can travel to get a view of the rides from the floor, to the tickets, to the coffee shop, and to the snack area. Additionally, you can pick up ice crea, cotton candy, the cotton candy machine, sugar skulls, and popcorn. There's also various attractions to view
 
 For more information please visit the [project website](https://sites.google.com/uic.edu/cs428-angelica/project-2).
 
@@ -44,8 +44,8 @@ For more information please visit the [project website](https://sites.google.com
 1. In **Unity Hub** ensure the version is correct click **open** and click on the now unzipped main folder
 1. After opening, there should be a blank scene
 1. Navigate to the **Assets** folder
-1. Inside the folder there is a scene called **Fall Scene** drag and drop into the heirarchy
-1. Delete the  **Untitled Scene**, **Fall Scene** should be the only scene in the heirarchy.
+1. Inside the folder there is a scene called **Fair Scene** drag and drop into the heirarchy
+1. Delete the  **Untitled Scene**, **Fair Scene** should be the only scene in the heirarchy.
 1. Now you should have the scene fully loaded.
   * For playing scene in Unity
      1. Ensure that **CameraRigs.SpatialSimulator** is enabled and **UnityXRPluginFramework** is disabled. One can do this by clicking **Toggle Active State**
