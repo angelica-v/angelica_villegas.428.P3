@@ -16,7 +16,6 @@ public class trainMove : MonoBehaviour
     void Update()
     {
 
-        // 0.22 works
         transform.position = trainLocation + new Vector3(-5.15f * Mathf.Sin(Time.time / 8), 0.0f, 0.0f); 
     }
 }
